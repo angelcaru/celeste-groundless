@@ -1,7 +1,7 @@
-RecordCount: 242
+RecordCount: 978
 
-# MIRROR TEMPLE CASSETTE 13GT
-# By RoundWindow4216
+# MIRROR TEMPLE CASSETTE 10GT
+# By RoundWindow4216, IAmCatman
 
 console load 5
    1
@@ -10,7 +10,7 @@ console load 5
 Read,5A-groundless-R,Start,lvl_b-02
 #8gt
 
-#lvl_b-02
+#lvl_b-02 (0)
 #0gt
   15,R,U,Z
   12,L,J,G
@@ -32,23 +32,61 @@ Read,5A-groundless-R,Start,lvl_b-02
   40
 
 #lvl_b-11 (0)
-#1gt
+#0gt
   13,R
-  13,L
-  14,R,Z
-  11,R,J
-   1,R,K,G
-  54,R,K
-  11,J,G
+   9,L
+  15,R,Z
+  30,L
+  31,L,D
+   1,L,G
+  13,L,J,G
+  40
+
+
+#lvl_b-02 (1)
+#0gt
+   3,R
+   6,R,U,Z
+  40
+
+#lvl_b-11 (1)
+#0gt
+   5,R
+   1,L,J,G
+  24,L,J
+  10,K,G
+   1,R,K
+   1,J
+  24,L,J
+  10,K,G
+   1,R,K
+   1,J
+  18,L,J
+   6,R,K
+   5,R
+  38,R,J
+   6,K,G
+   1,L,K
+   1,J
+  24,R,J
+   9,R,K,G
+  19,R
+  22,R,J
+   5,K,G
+   1,L,K
+   1,J
+  24,R,J
+   8,R,K,G
+  19,R
+   1,R,J
+  11,R
+  15,R,U,Z
+   8,L
    1,L,J
-  12,R,K,G
-   5,J,G
-   1,L,J
-  12,K
-  19,R,J,G
-  15,U,X
-  25,L
-  57,R,D
+  15,L,D
+  48,R,D
+   4
+   9,R,D
    1,R,G
   18,R,J,G
   40
@@ -59,41 +97,47 @@ Read,5A-groundless-R,Start,lvl_b-02
    2,L
   40
 
-#lvl_b-11 (1)
+#lvl_b-11 (2)
 #0gt
   11,D
    5,R,U,Z
   40
 
 #lvl_b-13 (1)
-#2gt
+#1gt
    5,R,U,Z
    1,J
-   2,R,J
-   2,J
+  24,L,J
+  27,R,K
+  19,R,D
+  26,R
+  16,R,J
+  17,R
+  11,R,J,G
+  17,R
+   1
+   1,R
+  15,R,J,G
+  17,R,K,G
+   2,K
+   2,R,K
+  10,J,G
+   1,L,J
    1,R,J
-   5,J
-  15,R,C
-   7
-  14,R,X
-  17,R,J
-  15,U,X
-  11,R
-  46
-  32,L,J
+  16,L,K
   15,L,U,X
-  20,D
-   5,R,D
-   1,L,D
-  15,D
-  25,G
-  19,R,J
-  22,L
-   1,J
-   1,L,K,G
-   0,R,K
-  22,R
-   1,G
+   5,L
+   7,L,J,G
+   9,L
+  34,L,J
+  16,L,U,Z
+  47,D
+  16,L,G
+  26,R,J
+  15,L,J
+  18,R,K
+  23,R,D
+   1,R,G
   18,R,J,G
   58
 
@@ -123,7 +167,7 @@ Read,5A-groundless-R,Start,lvl_b-02
   40
 
 #lvl_b-22
-#1gt
+#0gt
    8,R,J
    7,L,K
    5,R,J
@@ -180,22 +224,23 @@ Repeat, 48
    1,G
    1
 EndRepeat
-  26,L,J
-   5,K
-   6
-  17,L
-Repeat, 14
+  22,L,J
+  10,R,J
+Repeat, 18
    1,G
    1
 EndRepeat
-  14,L,Z
-   4,L,J
+  35,L,J
    3,L
-   1,L,J,G
-  26,L
-   9,L,U,Z
-   1,R,J,G
-  10,L,J
+   3,L,D
+   9,L,K
+  37,L
+  11,L,Z
+   4,L,J,G
+   5,L
+  13,L,J
+   1,K
+  27,L,K
  257
    1,J
 #Return
@@ -205,4 +250,4 @@ EndRepeat
    1,O
   31
 
-FileTime: 1:54.036(6708)
+FileTime: 2:03.335(7255)
