@@ -1,10 +1,11 @@
 # Celeste Minimum Ground Touches Challenge
+Spreadsheet: https://docs.google.com/spreadsheets/d/1O2bRbKnQZh-02mU0eOqMVv9_MI6VYQEHniaAWuvnipI/edit?gid=480596487#gid=480596487
+Ground touch counter mod: https://github.com/angelcaru/GroundTouchCountMod
 
 ## Rules
-> NOTE: These rules are WIP. The goal is to rigorously define the "vibe" of a ground touch so that we can be more specific when talking about the challenge
+Madeline is considered "grounded" when Player.onGround == true.
+A "ground touch" is either Madeline being grounded when she wasn't on the frame before, or Madeline spawning in as grounded.
+The intro animation of a level always counts as 1 ground touch (or 0 if she doesn't spawn on the ground, which is never the case in vanilla), regardless of how many times Madeline actually touches the ground during the animation.
 
-1. A "ground touch" is defined as any situation where your coyote timer resets, excluding dream block exits.
-2. Ground touches do not count on level load
-3. A ground touch may extend for any amount of time while only adding 1 to the counter
-
+These rules are codified in the ground touch counter mod linked above
 
