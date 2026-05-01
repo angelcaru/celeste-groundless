@@ -1,5 +1,5 @@
 # Celeste Minimum Ground Touches Challenge
-Spreadsheet: https://docs.google.com/spreadsheets/d/1O2bRbKnQZh-02mU0eOqMVv9_MI6VYQEHniaAWuvnipI/edit?gid=480596487#gid=480596487
+Spreadsheet: https://docs.google.com/spreadsheets/d/1O2bRbKnQZh-02mU0eOqMVv9_MI6VYQEHniaAWuvnipI/edit?gid=480596487#gid=480596487 <br>
 Ground touch counter mod: https://github.com/angelcaru/GroundTouchCountMod
 
 ## Rules
