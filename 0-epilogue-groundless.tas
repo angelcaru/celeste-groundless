@@ -1,0 +1,23 @@
+# EPILOGUE 3GT
+
+console load 8
+   1
+
+#Start
+  69
+
+#lvl_outside
+#2gt
+   8,L,X
+   7,L,K
+   8,L,V
+ 123
+
+#lvl_inside
+#1gt
+  33
+   1,S
+   1,D,J
+  95
+
+FileTime: 0:00.000(0)

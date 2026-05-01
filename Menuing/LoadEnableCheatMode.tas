@@ -1,0 +1,26 @@
+#used for All B-Sides and All C-Sides
+
+console load 0
+Set,CheatMode,false
+   1
+
+Set ExtendedVariantMode.AirFriction -1
+Set ExtendedVariantMode.Friction -1
+
+#Start
+  61
+
+#lvl_0
+   6,R
+   1,L,J
+   2,R
+  40
+
+#lvl_-1
+   1,L
+   1,R,N
+   1,G
+   1,F,
+   1,L,U,D,G
+   1,J
+ 123

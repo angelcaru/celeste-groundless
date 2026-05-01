@@ -1,0 +1,47 @@
+# ANY% 122GT
+
+Read,Menuing/StartFullGameFile
+
+Read,0-prologue-groundless,Start
+
+Read,Menuing/LoadANoCollects,Prologue
+
+Read,1A-groundless,Start
+
+Read,Menuing/LoadANoCollects
+
+Read,2A-groundless,Start
+
+Read,Menuing/LoadANoCollects
+
+Read,3A-groundless-R,Start
+
+Read,Menuing/LoadA
+
+Read,4A-groundless-R,Start
+
+Read,Menuing/LoadANoCollects
+
+Read,5A-groundless-R,Start
+
+Read,Menuing/LoadANoCollects
+
+Read,6A-groundless-R,Start
+
+Read,Menuing/LoadANoCollects,0,Summit
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7A-groundless-R,Start
+
+
+Read,Menuing/LoadAFromB,SkipExit,Epilogue
+
+#Epilogue
+Read,Menuing/LoadJournal,0,Any%
+
+FileTime: 39:19.498(138794)

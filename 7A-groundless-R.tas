@@ -1,4 +1,4 @@
-RecordCount: 2794
+RecordCount: 2797
 
 # THE SUMMIT 36GT (R)
 # By RoundWindow4216
@@ -9,6 +9,7 @@ RecordCount: 2794
 # console load 7 25600 -13432
 # Play,3000M,37
 
+console wipedebug
 console load 7
    1
 
@@ -2539,7 +2540,8 @@ EndRepeat
   14,R,U,X
   15,R,J,G
    1,S
-   1,D,J
-  18
+   1,U,J
+   1,O
+  31
 
 ChapterTime: 10:15.638(36214)
