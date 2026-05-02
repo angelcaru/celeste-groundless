@@ -1,8 +1,8 @@
-RecordCount: 2
+RecordCount: 52
 # original recordcount unknown
 
-# GOLDEN RIDGE B-SIDE 20GT (R)
-# By floatingreed
+# GOLDEN RIDGE B-SIDE 19GT (R)
+# By floatingreed, RoundWindow4216
 
 console hard 4
    1
@@ -1019,32 +1019,26 @@ EndRepeat
   40
 
 #lvl_end (1)
-#2x
-  20,R,J,G
+#1x
+  10,R,J,G
    4,K,G
   14,R,Z
    1,R,J
-   1,R
-   1,R,J
-   1,R,J
-   6,R,J
-  20,R,J
-  30,R,K,G
-  25,R,U,G
-  30,G
-  12,L,J
-  22,U,J,X
-  10,K,G
-  10,J,G
-  10,R,K
-  22,R,X
+  14,R
+   1
+  10,R
+  29,R,K,G
+  40,G
+   9,J,G
+   1,L,J
+  14,L,K
+  15,U,X
+   3,L
+  19,R,J
+  14,R,X
   26,R,J,C
   10,R,X
-  42,R,J,G
- 145,R,J,X,G
-   4,L,J
-  77,R,J
-  16,G
- 144,R,X
+  68,R,D,J,G
+ 148,R,X
 
-ChapterTime: 4:31.847(15991)
+ChapterTime: 4:27.648(15744)
