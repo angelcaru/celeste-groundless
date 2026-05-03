@@ -23,4 +23,4 @@ These are the levels we have TASed so far (by FC i just mean all collectibles, n
 | Summit     | [Yes](./7A-groundless-R.tas) | No | No | No |
 | Epilogue   | [Yes](./0-epilogue.tas) | | | |
 | Core       | No | No | No | No |
-| Farewell   | No | No | | |
+| Farewell   | [WIP](./WIP-9-groundless-R.tas) | No | | |
