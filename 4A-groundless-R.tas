@@ -1,7 +1,7 @@
-RecordCount: 3
+RecordCount: 71
 
-# GOLDEN RIDGE 12GT
-# By Zonk
+# GOLDEN RIDGE 11GT
+# By Zonk, arti
 
 console load 4
    1
@@ -429,18 +429,53 @@ console load 4
    5,R,J,G
   40
 
-#lvl_c-00
+#lvl_c-00 (0)
 #2gt
+   1,J
+   2,K,G
+  13,L,K
+  12,R,J
+  16,U,X
+  19,L,J
+   6,K,G
+   1,R,K
+   2,R
+   1,J
+  17,L,J
+   1,L,K,G
+   8,L,J,G
+   5,L
+  12,L,J
+  40
+
+#lvl_c-01
+   5,R,X
+  40
+
+#lvl_c-00 (1)
+  45,R
+  31,R,D
    1,R
-  14,R,J,G
-  15,R,X
-   6,R
-  14,R,Z
-  24,R,J
-  10,R,U,X
+   1,R,D
+   1,R,J
+   2,R,K
+   2,R
+  12,R,X
+   1,R,J,G
+   1,J
+  10,R,J
    5,R
-  11,R,J,G
-  10,R
+   4,R,J
+  17,R
+   1,R,J,G
+   5,R,K,G
+  17,R
+  17,R,J
+  10,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+  28,R,J,G
   14,R,Z
   38,R,J
   10,R,X
@@ -1074,7 +1109,7 @@ console load 4
    1,D,J
   18
 
-ChapterTime: 3:43.057(13121)
+ChapterTime: 3:48.242(13426)
 
 
 ##d-01
