@@ -1,4 +1,4 @@
-# ANY% 119GT
+# ANY% 118GT
 
 Read,Menuing/StartFullGameFile
 
@@ -43,4 +43,4 @@ Read,Menuing/LoadAFromB,SkipExit,Epilogue
 #Epilogue
 Read,Menuing/LoadJournal,0,Any%
 
-FileTime: 39:24.496(139088)
+FileTime: 39:25.091(139123)
