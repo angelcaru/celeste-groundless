@@ -9,3 +9,18 @@ The intro animation of a level always counts as 1 ground touch (or 0 if she does
 
 These rules are codified in the ground touch counter mod linked above
 
+## Progress
+These are the levels we have TASed so far (by FC i just mean all collectibles, not necessarily an actual full clear)
+|            | A | FC | B | C |
+|------------|---|----|---|---|
+| Prologue   | [Yes](./0-prologue-groundless.tas) | | | |
+| City       | [Yes](./1A-groundless.tas) | [Yes](./1SHC-groundless.tas) | [Yes](./1B-groundless.tas) | No |
+| Site       | [Yes](./2A-groundless.tas) | No | No | No |
+| Resort     | [Yes](./3A-groundless-R.tas) | No | No | No |
+| Ridge      | [Yes](./4A-groundless-R.tas) | No | [Yes](./4B-groundless-R.tas) | No |
+| Temple     | [Yes](./5A-groundless-R.tas) | No | [Yes](./5B-groundless-R.tas) | [Yes](./5C-groundless-R.tas) |
+| Reflection | [Yes](./6A-groundless-R.tas) | No | [Yes](./6B-groundless-R.tas) | No |
+| Summit     | [Yes](./7A-groundless-R.tas) | No | No | No |
+| Epilogue   | [Yes](./0-epilogue.tas) | | | |
+| Core       | No | No | No | No |
+| Farewell   | No | No | | |
