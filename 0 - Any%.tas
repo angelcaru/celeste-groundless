@@ -1,4 +1,4 @@
-# ANY% 122GT
+# ANY% 119GT
 
 Read,Menuing/StartFullGameFile
 
@@ -38,10 +38,9 @@ Add 1
 
 Read,7A-groundless-R,Start
 
-
 Read,Menuing/LoadAFromB,SkipExit,Epilogue
 
 #Epilogue
 Read,Menuing/LoadJournal,0,Any%
 
-FileTime: 39:19.498(138794)
+FileTime: 39:24.496(139088)
