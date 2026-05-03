@@ -1,6 +1,6 @@
-RecordCount: 3668
+RecordCount: 3923
 
-# CELESTIAL RESORT 25GT
+# CELESTIAL RESORT 24GT
 # By IAmCatman, arti, RoundWindow4216
 
 console load 3
@@ -1695,6 +1695,7 @@ console load 3
   10,L,J
   18,L,U,X
    7,L
+#4:28.651(15803) 23gt
  115,L,G
    1,L,D,G
    1,L,G
@@ -1713,7 +1714,7 @@ console load 3
    1,L,J
   40
 
-#lvl_00-d
+#lvl_00-d (0)
 #0gt
   13,L,J
    1,S
@@ -1735,24 +1736,68 @@ console load 3
   12,L,K,G
   40
 
-#lvl_roof00
-#1gt
-   1,S
-   1,D,O
-  34
-  12,R
-  14,R,Z
-  12,R,J
-  18,R,K,G
-  18,R,J,G
-   9,R
-  12,R,Z
-  24,R,J,G
-   6,R,K,G
-  74,R
+#lvl_roof00 (0)
+#0gt
    1,J
-  10,R,J
-   7,R,Z
+  42
+   1,S,N
+   1,D,J
+  34
+   1,L,J
+  40
+
+#lvl_00-d (1)
+#0gt
+   5,L,J
+  22,L,Z
+  12,L,J
+  12,K,G
+  11,J,G
+  40
+
+#lvl_roof00 (1)
+#0gt
+   1,J,G
+   7
+  60,G
+  11
+   1,J
+   3,K,G
+   5
+   1,R,J
+   4,R
+   1,R,J,G
+  40,R,K,G
+  30,R,U,X
+  53,R,J
+   1,J
+  24,R,X
+   1,R,J,G
+  10,R,K,G
+   5,R
+   1,R,J
+  14,R,D
+   1,L,D
+   1,J
+   2,K,G
+  35,R,K
+   2,R,J,G
+   1,L,J
+   3,R,J
+  11,R,K,G
+  28,R,D
+   1,J
+  18,R,J
+  33,J
+  34,R,K
+   2
+   6,R,J
+  46,R
+   7,K,G
+   1
+   1,J
+   1
+   5,R,Z
   28,R,J,G
   40
 
@@ -2060,4 +2105,4 @@ console load 3
    1,D,O
   18
 
-ChapterTime: 6:01.148(21244)
+ChapterTime: 6:09.019(21707)
