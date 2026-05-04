@@ -1,6 +1,6 @@
 RecordCount: 978
 
-# MIRROR TEMPLE CASSETTE 10GT
+# MIRROR TEMPLE CASSETTE 9GT
 # By RoundWindow4216, IAmCatman
 
 console load 5
@@ -8,7 +8,7 @@ console load 5
 
 #Start
 Read,5A-groundless-R,Start,lvl_b-02
-#8gt
+#7gt
 
 #lvl_b-02 (0)
 #0gt
@@ -250,4 +250,4 @@ EndRepeat
    1,O
   31
 
-FileTime: 2:03.335(7255)
+FileTime: 2:03.556(7268)
