@@ -1,6 +1,6 @@
-RecordCount: 2967
+RecordCount: 2968
 
-# REFLECTION 9GT (R)
+# REFLECTION 8GT (R)
 # By RoundWindow4216, IAmCatman, arti
 
 console load 6
@@ -885,7 +885,7 @@ EndRepeat
   40
 
 #lvl_b-02b
-#1gt (should count for b-03)
+#0gt
    1,R,J
    5,R
    1,R,J
@@ -922,29 +922,31 @@ EndRepeat
   15,D,X
   15,D,C
  102,D
-  40,L,D
-  11,L,X
-   1,R,J
+  29,L,D
+  21,L,D,X
+   5,L,D,C
+   1,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
-   9,R,J,G
-   1
+   1,R,K
+   1,R,J
+   1,R,K
+   3,R,J,G
    4,R
-   9,R,D,X
-   1,R,J,G
-  12,R
-   3,R,J
+  14,R,X
+   2,R,J,G
+   1,K,G
+  10,R,K,G
   40
 
 #lvl_b-03
 #0gt
-   8,R,J
-  21,R
+  15,R,K
+  12,R
    6,L,D,X
   42,D
    1,J
@@ -1803,4 +1805,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 7:34.767(26751)
+ChapterTime: 7:34.665(26745)
