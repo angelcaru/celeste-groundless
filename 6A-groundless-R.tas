@@ -1,7 +1,7 @@
-RecordCount: 2823
+RecordCount: 2842
 
-# REFLECTION 12GT (R)
-# By RoundWindow4216, IAmCatman
+# REFLECTION 11GT (R)
+# By RoundWindow4216, IAmCatman, arti
 
 console load 6
    1
@@ -167,26 +167,23 @@ console load 6
   14,L,D
   11,L,X
   12,L,J
-  43,L,G
-   5,R,J
-   3,K
+  40,L,G
+   9,J
+   1
    5,D,X
    5,R
-  11,J,G
-   1,L,J
-  18,L,K
-  10,J,G
-   1,R,J
   21,K
-  73,D
+ 115,D
    1,R,J
   15,J
-  15,U,X
-   5,R
-  21,L,J
+  17,U,X
+   3,R
+  18,L,J
    1,K,G
-   1,R,K
-   5,L,J,G
+   2,R,K
+   1,L,J,G
+   1,R,J
+   5,L,J
   12,L,K,G
    9,R,J
   40

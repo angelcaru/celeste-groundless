@@ -1,6 +1,6 @@
 RecordCount: 398
 
-# REFLECTION FULL CLEAR 14GT
+# REFLECTION FULL CLEAR 13GT
 # By RoundWindow4216
 
 console load 6
@@ -8,7 +8,7 @@ console load 6
 
 #Start
 Read,6A-groundless-R,Start,lvl_04 (0)
-#4gt
+#3gt
 
 #lvl_04 (0)
 #0gt
