@@ -1,0 +1,95 @@
+RecordCount: 149
+
+# THE SUMMIT CASSETTE 10GT
+# By RoundWindow4216
+
+console load 7
+   1
+
+#Start
+Read, 7A-groundless-R, Start, lvl_d-03 (0)
+#7gt
+
+#lvl_d-03 (0)
+#0gt
+  15,U,Z
+   2,L
+  40
+
+#lvl_d-02
+#0gt
+   5,R,U,Z
+  40
+
+#lvl_d-03 (1)
+#0gt
+  14,R,U,Z
+   1,J
+  26,L,J
+  69,G
+   1
+   1,K
+  12,L,K
+   5,J,G
+  65,R,K
+  15,R,U,Z
+   9
+  15,U,Z
+  21,L
+  12,J,G
+  11,K,G
+   1,R,K
+   4,R,J
+  40
+
+#lvl_d-03b
+#3gt
+  10,R
+   4
+   5,R,Z
+  10,R,J,G
+   5,R
+  18,R,J
+   1
+  34,R,K
+   1,J
+   7,R,K,G
+   3,K
+  10,R,Z
+  18,L,J
+  10,G
+   1
+   1,J
+  18,L,J
+  44,R,K
+  37,R,U,X
+  20,R,Z
+  15,D
+  14,R,Z
+  32,R,J
+  11,K
+  48,L,G
+   1,R,J
+  24,R,K
+  12,J
+  16,L,G
+  63,R,J
+  13,R,Z
+  35,R,J,G
+  33,R,U,X
+   1,R,J,G
+   1,R,K,G
+  11,R
+   4,Z
+  11,R,J
+   7,R,U,Z
+ 257
+   1,O
+#Return
+  62
+   1,S
+   1,U,J
+   1,O
+  31
+
+FileTime: 3:14.157(11421)
