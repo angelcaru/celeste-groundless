@@ -1,0 +1,243 @@
+RecordCount: 344
+
+# FORSAKEN CITY C-SIDE 1GT
+# By floatingreed
+
+console rmx2 1
+   1
+
+#Start
+  61
+
+#lvl_00
+#1gt
+  24,R
+  50,R,J,G
+  15,U,X
+  40,R,U,J,C
+  14,R,D
+   5,R
+  37,R,G
+  15,U,X
+  25,R,U,C
+  40,R,D
+  33,R,G
+  18,U,X
+  14,L,U,Z
+  43,R,U,G
+   1,J,G
+   2,L,J
+   6,J
+   1,K,G
+   2,J,G
+   2,R,K,G
+   1,K
+   1,R,J,G
+  14,R,J
+  40
+
+#lvl_01 (0)
+#0gt
+   1,R
+   1,L
+  23,R
+   3,R,K,G
+  10,L,D
+  18,R,D
+   1,L,D
+   2,R,D
+  12,R
+  11,J,G
+   2,L,D
+  15,R,D
+   5,L,G
+Repeat, 17
+   1,L
+   1,L,G
+EndRepeat
+   2,L,G
+  37,R,J
+  12,K
+   8
+  15,R,K,G
+   1
+   1,G
+   1
+   1,G
+  31,U,G
+   1
+  10,L,J
+   6
+   1
+   6,L
+   1
+   1
+   4,L
+   1
+   1
+   1
+   1
+   4,L
+   1
+   1,L
+   1
+   1,L
+   3
+   1,G
+   1
+   1,K
+   1,J,G
+   1,R,J
+   1,R,K,G
+   3,R,J,G
+   6,R
+   6,R,J
+  20,R,J,X
+  20,L,D
+   1,J
+  33,R,K
+   9,R,D,G
+  12,R,J,G
+  40
+
+#lvl_02 (0)
+#0gt
+   6,R
+   6,L,U,Z
+  40
+
+#lvl_01 (1)
+#0gt
+   7
+   1,J
+   1
+  16,R,J
+  12
+  13,R,U,Z
+  40
+
+#lvl_02 (1)
+#0gt
+   7,R,J
+  43,R,K
+  10,D
+   7,R,D
+   9,R,J
+   1,R
+  24,R,J
+  17,R,K,G
+  10
+   2,J
+   2,L,J
+   1,L
+  21,L,K
+   2,J
+   3,L,J
+   1,L
+  21,L,K
+   2,J
+   3,L,J
+   1,L
+  25,L,J
+   2,K
+   3,L,J
+   1,L
+  24,L,J
+  18,R,K
+  20,R,J
+  12
+  16,R,J
+  23,D
+   1,L,G
+  25,R,J
+  10,J
+  22,R,J
+   2,K
+  20,R,K
+   6
+   4,J
+   1,R
+  20,R,J
+   4,K
+   1,R
+  22,R,J
+   1,G
+  25,L,J
+  10,D
+   4,L,D
+   1,G
+   1,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+  48,R,K
+   2,J
+  24,R,J
+   4,K
+   1,R
+  20,R,K
+  10,J
+  11,R
+   2,L
+  12
+   2,G
+   1,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+  29,R,K
+   6,J
+   1,R
+  10,R,J
+   9,R
+  27,L,J
+   2,L,G
+   1
+  20,J
+   8,L,J
+   6,R,K
+  29,L,D
+   1,L,J
+  27,R,D
+   8,L,D
+   1,L,G
+Repeat, 6
+   1
+   1,G
+EndRepeat
+  10,G
+  11,J,G
+   2,R,J
+   2,K
+  57,R,K
+  12,L,J
+  25
+Repeat,21
+   1,G
+   1
+EndRepeat
+   8,J,G
+   1,R
+   6,L
+   1,J
+   1,L,K,G
+  29,R,K
+   2,J
+  22,R,J
+   3
+  20,R,K,G
+  25,D
+   3,R
+  10,R,J
+  14,R,K
+  34,G
+  11,D
+  10,L,D
+   3,L
+  38,R,J
+  54,R,J,Z,G
+  13,K,G
+  20,R,K
+ 139,R,J,X
+
+ChapterTime: 0:41.633(2449)
