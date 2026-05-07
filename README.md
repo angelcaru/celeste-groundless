@@ -20,7 +20,7 @@ These are the levels we have TASed so far (by FC i just mean all collectibles, n
 | Ridge      | [Yes](./4A-groundless-R.tas) | No | [Yes](./4B-groundless-R.tas) | No |
 | Temple     | [Yes](./5A-groundless-R.tas) | No | [Yes](./5B-groundless-R.tas) | [Yes](./5C-groundless-R.tas) |
 | Reflection | [Yes](./6A-groundless-R.tas) | [Yes](./6HC-groundless-R.tas) | [Yes](./6B-groundless-R.tas) | No |
-| Summit     | [Yes](./7A-groundless-R.tas) | No | No | No |
+| Summit     | [Yes](./7A-groundless-R.tas) | No | [Yes](./7B-groundless-R.tas) | No |
 | Epilogue   | [Yes](./0-epilogue.tas) | | | |
 | Core       | No | No | [Yes](./8B-groundless-R.tas) | No |
 | Farewell   | [WIP](./WIP-9-groundless-R.tas) | No | | |
