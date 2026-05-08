@@ -1,7 +1,7 @@
-RecordCount: 3
+RecordCount: 36
 # original recordcount unknown
 
-# THE SUMMIT B-SIDE 40GT
+# THE SUMMIT B-SIDE 39GT
 # By Cadaeib65, Sango, arti
 
 #console hard 7 2080 -1624
@@ -1095,7 +1095,7 @@ EndRepeat
    4
 
 #lvl_f-00
-#2gt
+#1gt
   72
 #2500M
    2,R,J
@@ -1794,7 +1794,7 @@ EndRepeat
  129
 
 #lvl_g-02
-#13gt
+#12gt
  109
    1,L
   10,R,X
@@ -1952,22 +1952,28 @@ EndRepeat
   15,R,Z
    8,R
   15,R,U,Z
-   6,R
-   8
+  21
    1,J
-   1,R,J
-  15,R,Z
-  18,R,D,X
-   3,L
+   1,L
+   1
+   1,L
+   1
+   3,R
+  22,R,J
+  22,R,U,Z
+   1
+  15,R,D,X
+   4,R
+  38,R,U,X
   15,R,U,Z
-  10,R,X
-   4,R,J
-   1,L,J
-   3,R,J
-  15,R,Z
-  15,D,X
-   2
-   3,L
+   9
+   5,L
+   1,D
+   1
+   1,D
+   1
+   1,D
+   5
   14,R,Z
    5,R,J
    5,R
@@ -2181,4 +2187,4 @@ EndRepeat
   15,U,C
  137
 
-ChapterTime: 6:05.177(21481)
+ChapterTime: 6:06.180(21540)
