@@ -80,6 +80,7 @@ console load 3
 
 #lvl_s3 (0)
 #0gt
+#6
   15,U,X
    2,L
   40
@@ -210,6 +211,7 @@ console load 3
   12,R,K
    1,J
   10,R,J
+#2483.69, -233.00
    8,R,X
    5,R,J,G
    7,R
@@ -440,11 +442,10 @@ console load 3
    1,R,J,G
    5,R
   10,R,J
-  40
+  43
 
 #lvl_08-c
 #0gt
-   3
   11,R,X
   17,R
   12,U,X
