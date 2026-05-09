@@ -954,7 +954,7 @@ EndRepeat
   40
 
 #lvl_12-x (1)
-#0gt
+#1gt
   27,L
   12,L,J
    6,L,K,G
@@ -1143,7 +1143,7 @@ EndRepeat
   40
 
 #lvl_11-c (1)
-#0gt
+#1gt
    6,J
    1,K
   10,R
@@ -1777,7 +1777,7 @@ EndRepeat
   40
 
 #lvl_03-b
-#0gt
+#2gt
    5,D
    1,L,J
   43,L,D
