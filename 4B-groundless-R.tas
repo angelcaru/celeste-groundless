@@ -1,8 +1,8 @@
-RecordCount: 51
+RecordCount: 96
 # original recordcount unknown
 
-# GOLDEN RIDGE B-SIDE 17GT (R)
-# By floatingreed, RoundWindow4216
+# GOLDEN RIDGE B-SIDE 16GT (R)
+# By floatingreed, RoundWindow4216, Sango
 
 console hard 4
    1
@@ -234,27 +234,31 @@ console hard 4
   10,L,D
   12,D
   13,R,X
+  15
   13,R,C
-  20,R,U,X
-  13
-  14,U,X
-  43,R,J
-   4,K,G
-  27,R,J,G
-  15,L,G
-  24,R,J
+   2
+  15,R,U,X
+  13,J
+  14,K
+   1,J
+  15,L,J
+   5,L
+   9,R
+   1,R,G
+   3,R
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+  13,R,U,X
+  15,R,J,G
   40
 
 #lvl_b-00
-#2gt
-  11,R,J
-  10,R,X
-  23
-  10,L,Z
-  15,R,J
-  45,R,K,G
-  10,R,X
-   1
+#1gt
+  10,R,J
+  15,R,D,X
+   1,R,K,G
+  33,R
   10,R,U,X
    1
   10,R,X
@@ -622,13 +626,13 @@ console hard 4
    1,K
    2,J,G
   58,R,J
-Repeat, 10
+Repeat,10
    1,G
    1
 EndRepeat
    2
    1,G
-Repeat, 7
+Repeat,7
    5
    6,G
 EndRepeat
@@ -652,12 +656,12 @@ EndRepeat
    1,R,G
   18,L
   24,R
-Repeat, 30
+Repeat,30
    1,G
    1
 EndRepeat
    3
-Repeat, 11
+Repeat,11
    6,G
    5
 EndRepeat
@@ -677,7 +681,7 @@ EndRepeat
   12,J
   10,R
    6,G
-Repeat, 28
+Repeat,28
    1,L,D,G
    1,L,G
 EndRepeat
@@ -698,7 +702,7 @@ EndRepeat
   28,R,J,G
   10,L
    6,G
-Repeat, 36
+Repeat,36
    1,R,D,G
    1,R,G
 EndRepeat
@@ -727,7 +731,7 @@ EndRepeat
    1,L,J
   15,R,J
    8,J
-Repeat, 6
+Repeat,6
    1,G
    5
 EndRepeat
@@ -799,7 +803,7 @@ EndRepeat
    7,L,J
   29,R,K
   12,L,K
-Repeat, 100
+Repeat,100
    1,G
    1
 EndRepeat
@@ -814,7 +818,7 @@ EndRepeat
   14,L,J
   10,R,K
   25,R
-Repeat, 200
+Repeat,200
    1,G
    1
 EndRepeat
@@ -831,7 +835,7 @@ EndRepeat
    2,K
   30,R,K
   11,L,K
-Repeat, 213
+Repeat,213
    1,G
    1
 EndRepeat
@@ -1080,4 +1084,4 @@ EndRepeat
   68,R,D,J,G
  148,R,X
 
-ChapterTime: 4:28.345(15785)
+ChapterTime: 4:26.730(15690)
