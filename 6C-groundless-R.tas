@@ -1,0 +1,153 @@
+RecordCount: 204
+
+# REFLECTION C-SIDE 2GT
+# By RoundWindow4216
+
+console rmx2 6
+   1
+
+#Start
+  69
+
+#lvl_00
+#2gt
+  14,R,Z
+  19,R,J
+   1,R
+   2,R,J
+  15,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+  15,R,Z
+   9,R
+  23,L
+  15,R,Z
+  12,L
+  18,R
+  14,U,Z
+   9,R,J
+   8,R
+   4,R,J,G
+  17,R
+   3,R,J
+  24,R
+  15,R,X
+   5,R,Z
+  40
+
+#lvl_01
+#0gt
+   9,R,Z
+  10,R,J
+  47,R,D
+  15,L,D,X
+  10,R,D
+  23,R,X
+  18,D
+  31,F,285.5
+  23,L,Z
+  20,D
+  20,L,D
+   7,R,J
+  27,R
+  27,L,U
+   4,F,340
+  40,F,335
+  31,F,225
+  17,F,160
+  28,F,130
+  14,D
+   5,L,J
+  25,L
+  13,D
+  15,R,X
+  34,D
+  25,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R
+  14,R,X
+   9,R,J,G
+  40
+
+#lvl_02
+#0gt
+  55,D
+   6,L,D,X
+   1,J
+  27,L
+  18,G
+  13,D,G
+ 120,G
+   9,L
+   7,L,U,Z
+   8,R
+   1,L,J,G
+  10,L
+  46,U,G
+  60,L,J,G
+  12,R,X
+  12,J
+   5,L
+   5,L,J
+  36,J
+   1,R
+  10,G
+  24,L
+   7,L,U,Z
+   1,R
+  12,J
+  19,R
+  27,D
+  15,L,X
+   1,G
+   1,L,J,G
+   3,L
+  13,R
+   5
+   2,R
+  14
+   5,L,X
+  12,J
+  14,L
+  54,G
+   1
+   1,J
+   1,L,K,G
+   1,R,K
+   1,K
+   9,R,K
+   5,R
+   1,R,J
+   4,R
+   1
+  17,R
+  54,R,J,G
+  34,R,X
+  50,R
+  19,L,D,X
+  19,R
+  34,U,X
+  11,L
+  51,R
+  15,D,X
+  14,L,D
+  28,R
+  15,U,X
+   9,R,J
+  33,R,D
+  14,D
+  26,R
+  30,R,U,X
+ 125,L,U,C
+
+ChapterTime: 0:34.901(2053)

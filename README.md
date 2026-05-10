@@ -19,7 +19,7 @@ These are the levels we have TASed so far (by FC i just mean all collectibles, n
 | Resort     | [Yes](./3A-groundless-R.tas) | [Yes](./3SHC-groundless-R.tas) | [Yes](./3B-groundless-R.tas) | [Yes](./3C-groundless-R.tas) |
 | Ridge      | [Yes](./4A-groundless-R.tas) | No | [Yes](./4B-groundless-R.tas) | [Yes](./4C-groundless-R.tas) |
 | Temple     | [Yes](./5A-groundless-R.tas) | No | [Yes](./5B-groundless-R.tas) | [Yes](./5C-groundless-R.tas) |
-| Reflection | [Yes](./6A-groundless-R.tas) | [Yes](./6HC-groundless-R.tas) | [Yes](./6B-groundless-R.tas) | No |
+| Reflection | [Yes](./6A-groundless-R.tas) | [Yes](./6HC-groundless-R.tas) | [Yes](./6B-groundless-R.tas) | [Yes](./6C-groundless-R.tas) |
 | Summit     | [Yes](./7A-groundless-R.tas) | No | [Yes](./7B-groundless-R.tas) | No |
 | Epilogue   | [Yes](./0-epilogue.tas) | | | |
 | Core       | [Yes](./8A-groundless-R.tas) | No | [Yes](./8B-groundless-R.tas) | No |
