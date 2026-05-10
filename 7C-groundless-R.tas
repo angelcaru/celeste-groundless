@@ -1,7 +1,7 @@
-RecordCount: 283
+RecordCount: 302
 
-# THE SUMMIT C-SIDE 9GT
-# By RoundWindow4216
+# THE SUMMIT C-SIDE 8GT
+# By RoundWindow4216, floatingreed
 
 console rmx2 7
    1
@@ -47,7 +47,7 @@ console rmx2 7
   40
 
 #lvl_02
-#1gt
+#0gt
   17,L
   15,U,X
    7,R,J
@@ -59,15 +59,33 @@ console rmx2 7
   22,R,U,X
   39,R,U,C
   18,R,Z
-  14,R,V
-   5,R,J
-  18,R,D,X
-  13,R,C
- 111
+   2,L
+   2,R
+   8,R,Z
+  91,R,J,G
+   2,K
+  23,R,K
+   2,J
+  24,R,J
+   2,K
+  24,R,K
+   2,J
+  24,R,J
+   2,K
+  20,R,K
+   2,J
+  24,R,J
+   2,K
+  24,R,K
+   2,J
+  24,R,J
+   2,K
+  14,R,K
+ 106
 
 #lvl_03
-#6gt
-  69
+#5gt
+  70
    5,R
    7,R,J
   25,R,K,G
@@ -176,4 +194,4 @@ console rmx2 7
   34
   24,L,J
 
-ChapterTime: 0:48.467(2851)
+ChapterTime: 0:53.125(3125)
