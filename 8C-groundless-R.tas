@@ -1,4 +1,4 @@
-RecordCount: 422
+RecordCount: 431
 
 # CORE C-SIDE 5GT
 # By floatingreed
@@ -8,7 +8,7 @@ console hearts 23
    1
 
 #Start
-  76
+  61
 
 #lvl_intro
 #1gt
@@ -65,8 +65,8 @@ EndRepeat
 #1gt
   15,U,Z
    3,L
-  39
-   8,L
+  40
+   7,L
    7,R,U,Z
   40
   12,R,J
@@ -120,13 +120,13 @@ EndRepeat
   40
 
 #lvl_02
-#x3
+#3gt
   15,U,Z
    3,L
-  39
+  40
    5,R,Z
   40
-  12,R,J
+  11,R,J
   28,R,J,Z
   36,G
    1,R,J,G
