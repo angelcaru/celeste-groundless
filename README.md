@@ -16,7 +16,7 @@ These are the levels we have TASed so far (by FC i just mean all collectibles, n
 | Prologue   | [Yes](./0-prologue-groundless.tas) | | | |
 | City       | [Yes](./1A-groundless.tas) | [Yes](./1SHC-groundless.tas) | [Yes](./1B-groundless.tas) | [Yes](./1C-groundless.tas) |
 | Site       | [Yes](./2A-groundless.tas) | [Yes](./2SHC-groundless.tas) | [Yes](./2B-groundless.tas) | [Yes](./2C-groundless.tas) |
-| Resort     | [Yes](./3A-groundless-R.tas) | [Yes](./3SHC-groundless-R.tas) | [Yes](./3B-groundless-R.tas) | No |
+| Resort     | [Yes](./3A-groundless-R.tas) | [Yes](./3SHC-groundless-R.tas) | [Yes](./3B-groundless-R.tas) | [Yes](./3C-groundless-R.tas) |
 | Ridge      | [Yes](./4A-groundless-R.tas) | No | [Yes](./4B-groundless-R.tas) | No |
 | Temple     | [Yes](./5A-groundless-R.tas) | No | [Yes](./5B-groundless-R.tas) | [Yes](./5C-groundless-R.tas) |
 | Reflection | [Yes](./6A-groundless-R.tas) | [Yes](./6HC-groundless-R.tas) | [Yes](./6B-groundless-R.tas) | No |
