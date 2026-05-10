@@ -22,5 +22,5 @@ These are the levels we have TASed so far (by FC i just mean all collectibles, n
 | Reflection | [Yes](./6A-groundless-R.tas) | [Yes](./6HC-groundless-R.tas) | [Yes](./6B-groundless-R.tas) | [Yes](./6C-groundless-R.tas) |
 | Summit     | [Yes](./7A-groundless-R.tas) | No | [Yes](./7B-groundless-R.tas) | [Yes](./7C-groundless-R.tas) |
 | Epilogue   | [Yes](./0-epilogue.tas) | | | |
-| Core       | [Yes](./8A-groundless-R.tas) | No | [Yes](./8B-groundless-R.tas) | No |
+| Core       | [Yes](./8A-groundless-R.tas) | No | [Yes](./8B-groundless-R.tas) | [Yes](./8C-groundless-R.tas) |
 | Farewell   | [WIP](./WIP-9-groundless-R.tas) | No | | |
