@@ -1,6 +1,6 @@
-RecordCount: 204
+RecordCount: 242
 
-# REFLECTION C-SIDE 2GT
+# REFLECTION C-SIDE 1GT
 # By RoundWindow4216
 
 console rmx2 6
@@ -9,7 +9,7 @@ console rmx2 6
 #Start
   69
 
-#lvl_00
+#lvl_00 (0)
 #2gt
   14,R,Z
   19,R,J
@@ -33,21 +33,41 @@ console rmx2 6
    4,R,J,G
   17,R
    3,R,J
-  24,R
-  15,R,X
+  21,R
+   1
+   6,R,J
+   5,R
+  18,R,J
+  40
+
+#lvl_01 (0)
+#0gt
+  15,U,Z
+   2,L
+  40
+
+#lvl_00 (1)
+#0gt
    5,R,Z
   40
 
-#lvl_01
+#lvl_01 (1)
 #0gt
-   9,R,Z
-  10,R,J
-  47,R,D
-  15,L,D,X
-  10,R,D
-  23,R,X
-  18,D
-  31,F,285.5
+  37,R,D
+   2,D
+   1,R,J
+  14,R
+  46,R,X
+  25,L
+   5,L,D
+  15,R,X
+  14,D
+   4,L,D
+   8,D
+
+# 9999
+#700.27, 210.07, 220
+  31,F,284
   23,L,Z
   20,D
   20,L,D
@@ -150,4 +170,4 @@ console rmx2 6
   30,R,U,X
  125,L,U,C
 
-ChapterTime: 0:34.901(2053)
+ChapterTime: 0:37.417(2201)
