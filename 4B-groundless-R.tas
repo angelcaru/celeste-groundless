@@ -1,8 +1,8 @@
-RecordCount: 96
+RecordCount: 465
 # original recordcount unknown
 
-# GOLDEN RIDGE B-SIDE 16GT (R)
-# By floatingreed, RoundWindow4216, Sango
+# GOLDEN RIDGE B-SIDE 15GT (R)
+# By floatingreed, RoundWindow4216, arti
 
 console hard 4
    1
@@ -626,13 +626,13 @@ console hard 4
    1,K
    2,J,G
   58,R,J
-Repeat,10
+Repeat, 10
    1,G
    1
 EndRepeat
    2
    1,G
-Repeat,7
+Repeat, 7
    5
    6,G
 EndRepeat
@@ -656,12 +656,12 @@ EndRepeat
    1,R,G
   18,L
   24,R
-Repeat,30
+Repeat, 30
    1,G
    1
 EndRepeat
    3
-Repeat,11
+Repeat, 11
    6,G
    5
 EndRepeat
@@ -681,7 +681,7 @@ EndRepeat
   12,J
   10,R
    6,G
-Repeat,28
+Repeat, 28
    1,L,D,G
    1,L,G
 EndRepeat
@@ -702,7 +702,7 @@ EndRepeat
   28,R,J,G
   10,L
    6,G
-Repeat,36
+Repeat, 36
    1,R,D,G
    1,R,G
 EndRepeat
@@ -731,7 +731,7 @@ EndRepeat
    1,L,J
   15,R,J
    8,J
-Repeat,6
+Repeat, 6
    1,G
    5
 EndRepeat
@@ -803,7 +803,7 @@ EndRepeat
    7,L,J
   29,R,K
   12,L,K
-Repeat,100
+Repeat, 100
    1,G
    1
 EndRepeat
@@ -818,7 +818,7 @@ EndRepeat
   14,L,J
   10,R,K
   25,R
-Repeat,200
+Repeat, 200
    1,G
    1
 EndRepeat
@@ -835,7 +835,7 @@ EndRepeat
    2,K
   30,R,K
   11,L,K
-Repeat,213
+Repeat, 213
    1,G
    1
 EndRepeat
@@ -992,8 +992,8 @@ EndRepeat
   18,R,K,G
   40
 
-#lvl_d-03 (0)
-#2gt
+#lvl_d-03
+#1gt
   15,U,X
   38,L
   39
@@ -1021,67 +1021,88 @@ EndRepeat
   10,R,D
   22,R,Z
   15,U,X
-   2,L
-  15,R,D,G
-  40,R,J,G
-  36,R,U,X
-   4,R,J,G
-   1
-  51,R,J,G
-  16,L,K
-  19,R,K
-  26,R,J,G
-  10,L,J
-   3
-  49,R,J
-  10,R,X
-   8,R,J
-  20,R,K,G
-  14,R,X
-   6,R,J,G
-   8,R
-  14,R,Z
-  44,R,J
-   2,L,J
-  16,R,U,X
-   1,R,J,G
-  29,R,K,G
-  40
-
-#lvl_end (0)
-#0gt
-   2,R,J
-   5,L,U,X
-  40
-
-#lvl_d-03 (1)
-#0gt
-  20
-  23,L
-  12,R,X
-  40
-
-#lvl_end (1)
-#1gt
-  10,R,J,G
-   4,K,G
-  14,R,Z
-   1,R,J
-  14,R
-   1
+   7
   10,R
-  29,R,K,G
-  40,G
-   9,J,G
-   1,L,J
-  14,L,K
-  15,U,X
-   3,L
-  19,R,J
-  14,R,X
-  26,R,J,C
-  10,R,X
-  68,R,D,J,G
- 148,R,X
+  15,L,J
+   6,R,J
+   4,R
+   1,L
+  10,R,D
+   2,L
+   1,J,G
+   7
+   1,J
+   2
+   1,R,J
+   5,R
+   1,R,J,G
+  34,R,K,G
+  31,J
+   1,K
+  10,R,K
+   9,R
+   1,R,J
+  20,R,D
+   3,R
+   1,R,D
+   1,R
+   1,R,D
+  12,R,J
+   6,R
+   1,K
+  35,R,K
+   3
+  11,R,J
+  26,R
+   1,D
+   7,R,J,G
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+  11,R
+   6,R,J
+   5,R
+   4,R,J
+   1,R
+   1,R,J
+   7,R,K,G
+   9,R
+   2,R,J
+   8,R
+   4,R,J
+  13,R
+  33,R,U,X
+  14,R,Z
+  52,R,J
+  12,K
+  12,J
+   4,R,K,G
+  20,R,J,G
+   1,R
+   3,R,J
+  11,R
+   5,R,X
+  40
 
-ChapterTime: 4:26.730(15690)
+#lvl_end
+   8,R,X
+   1,R,J,G
+   4
+   4,R
+   1
+   1,R
+  24,R,J
+  18,R,U,Z
+  15,J
+   4,K
+  11,R,J
+  19,R,X
+   9
+  26,R,C
+  10,R,X
+  78,R,J,G
+  13,R,X
+ 135
+
+ChapterTime: 4:24.911(15583)
