@@ -1,4 +1,4 @@
-RecordCount: 3216
+RecordCount: 3222
 
 # MIRROR TEMPLE 17GT (R)
 # By RoundWindow4216, Cadaeib65, arti
@@ -206,7 +206,7 @@ EndRepeat
   22,R
    1,J
   41,R,J
-Repeat,28
+Repeat,26
    1,D
    1
 EndRepeat
@@ -219,7 +219,7 @@ EndRepeat
 #lvl_b-00 (0)
 #0gt
    1
-  15,U,Z,M
+  15,U,Z
    5,L
   40
 
@@ -2027,4 +2027,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 7:39.493(27029)
+ChapterTime: 7:39.425(27025)
