@@ -1,7 +1,7 @@
-RecordCount: 2033
+RecordCount: 2313
 
-# CELESTIAL RESORT FULL CLEAR 41GT
-# By RoundWindow4216
+# CELESTIAL RESORT FULL CLEAR 40GT
+# By RoundWindow4216, arti
 
 # console load 3 4676.36 -305.61 0 -105
 #   37
@@ -509,6 +509,7 @@ Read,3A-groundless-R,lvl_05-a,lvl_06-a
 
 #lvl_06-c (0)
 #0gt
+.
    6,R
    2,J,G
   11,L,J
@@ -549,7 +550,7 @@ Read,3A-groundless-R,lvl_05-a,lvl_06-a
   43
 
 #lvl_05-c (1)
-#0gt
+#2gt
   26
   38,L
   15,L,X
@@ -637,111 +638,220 @@ Read,3A-groundless-R,lvl_05-a,lvl_06-a
 
 #lvl_06-c (2)
 #0gt
-   5,L,U,X
+   3
+   6,L,X
   43
 
 #lvl_05-c (2)
 #0gt
-  10,L,U,X
-   7,R,J
-   5,R,Z
-  40
+   9,L,X
+  10
+   7,R,X
+   1,R,J,G
+   1,J
+   5,R
+   1,L
+   1,J,G
+  43
 
 #lvl_06-c (3)
-#1gt
-  10,R,Z
+#0gt
+   2
+   5,J
+   6,R,J
   15,R,X
-  12
-   1,G
-   5,R
-  28,R,J
+  37,R
+   1,R,D
    1,K
-  37,R,K
-   9,R,J
-  20,R
+  38,R,K
+   8,R,J
+  19,R
    1,J
   37,R,J
   12,R,K
-  16,R
+   6,R
+   1,R,J
+  10,R
    1,J
-  35,R,J
-   6
-  18,R,J
-   1,K,G
-   1,L,K
-   1,R,K
-   5,J,G
-   7,L
-   6,L,J,G
-  13,L
-   1
-  10,L,J,G
-   5,L
-  17,L,J
-  16
-  14,R
-  12,R,J
-  15,R
-   1,K
-  37,R,K
-   5
-  17,R,J
-  12,L,K
-  12,R,J
-   5,R
-   7,R,J
-  31,R
-   6,R,J,G
+  37,R,J
+  18,R,K
+  12,L,J
+  22,R,K
+  32,R
+   5,R,J,G
    9,R
    1,R,J,G
-  11,R
-  10,R,Z
-   1,R,J
-   1
-  15,R
-   1,J
-  10
-  18,L,D
-  51,D,X
-  40
-
-#lvl_07-b (1)
-#1gt
-   7,L,D
-   3,L
-Repeat,6
-   1,G
-   1
-EndRepeat
-   8,R,J
+   5,R,K,G
    5,R
-  12,R,J
-  25,R,X
-   9,L,Z
-   7,L,J
-  11,L
-  12,J
-   9,R,K,G
+   9,R,J
+   7,R
+  10,R,J
+  43,R,K
+   8,R,J,G
+   5,R
+   2,R,J
+  18,R,D
+   5,D
+   9,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,J,G
+   5,R
+  10,R,J
+  43
+
+#lvl_08-c (0)
+#0gt
+   5,L,U,Z
   40
 
 #lvl_06-c (4)
 #0gt
-  10,R,J,G
-   2,R
-  21,R,Z
-   1,J
-   9,R,J
-   2
-   1,R
+  10,L,U,Z
+  21,R
    1
-  19,R
+   1,J,G
+   8,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J
+   4,L,J
+   1,R,J
+   1,K
+   2,J,G
+   7,L,J
+   7,L
+   1,L,J,G
+   6,L,K,G
+   9,L
+   1,L,J
+  29,L,D
+  10,D,X
    1,R,J,G
-   3,R,K,G
-   9,R
-   2,R,J
+   3,O
+  17,D
   40
 
-#lvl_08-c
+#lvl_07-b (1)
+#1gt
+  11,R,D
+  14,R,Z
+   3,R,J
+   5,R
+   1,K,G
+   1,R
+   1
+   1,R
+   1,L
+  10
+   4,L,J
+   5,L
+  10,L,J
+  26,L,X
+  11,J,G
+   1,R,J
+  10,K
+   1,J,G
+  40
+
+#lvl_06-c (5)
+#0gt
+  11,L
+  11,J,G
+   1,R,J
+   1,K
+  24,L,K
+   1,J,G
+  10,L,J
+   1,R
+  21,L,X
+  11,J
+   1,R,J
+   5,K,G
+   3,L,K
+   1,K
+   2
+  36,L,J
+   2,L,D
+   1,R,D
+   1,J
+   6,K,G
+   2
+   5,L
+   4,L,J,G
+  12,L
+   1
+   9,L,J,G
+   5,L
+   6,L,J
+   1,L
+   1,L,J
+   6,L
+   8,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+  13,R,D
+  11,R,J
+  16,R
+   1,K
+  37,R,K
+  18,R,J
+   1,K
+  11,L,K
+   1,J
+  48,R,J
+   3,R,D
+   2,D
+   1,R,D
+   5,R,J,G
+   6,R
+   1
+   1,R
+   1
+   1,R,J,G
+   5,R,K,G
+   5,R
+   8,R,J
+   8,R
+   1,J
+  20,R,D
+  13,L,D
+   8,D
+  40
+
+#lvl_07-b (2)
+#0gt
+   5,R,X
+   3,R,J,G
+   1,K
+  40
+
+#lvl_06-c (6)
+#0gt
+   1,R,J,G
+   1,R
+   1,J,G
+   1,R,J
+   5,R
+   2,R,J
+   1,R
+   5,R,J
+  15,R,X
+   1
+   3,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   2,R,J
+   3,R
+  40
+
+#lvl_08-c (1)
 Read,3A-groundless-R,lvl_08-c,lvl_10-x (0)
 #6gt
 
@@ -2153,4 +2263,4 @@ Read, 3A-groundless-R, lvl_00-d (0), lvl_roof06
    1,D,J
   18
 
-ChapterTime: 9:53.980(34940)
+ChapterTime: 10:04.180(35540)
