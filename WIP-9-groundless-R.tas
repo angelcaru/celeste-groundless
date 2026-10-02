@@ -1,6 +1,6 @@
-RecordCount: 1361
+RecordCount: 1371
 
-# By RoundWindow4216
+# By RoundWindow4216, Alexa
 
 console load 10
    1
@@ -594,19 +594,36 @@ EndRepeat
   40
 
 #lvl_e-00y (0)
-#1gt
-   5,L,G
-  16,U,J,G
-   2,R
-  21,R,U,Z
-  15,D,X
-   7,R
-  15,R,X
-  14,R,C
-   3,L,J
-   9,U,X
-  20,U,G
-  24,R,U,G
+#0gt
+   4,L,G
+   1,R,G
+   9,J
+   1,R,J
+   1,J
+   6,R,J
+  41,R,D,G
+  15,R,U,G
+   1,R,D,G
+   8,R
+   1,J
+   1,R,K,G
+   1,L,K
+  10,R,K
+   1,K
+  15,R,Z
+   7,L,D,X
+   1,L,J,G
+   1,R,J
+  11,J
+  17,J,G
+  13,L,J,G
+   1,L,J
+   1,G
+   1
+   1,J
+   9,R,J
+   5,R
+  17,R,G
   40
 
 #lvl_e-00yb
@@ -1101,3 +1118,6 @@ EndRepeat
    9,R,Z
    9,R,J,G
   40
+
+#lvl_f-door
+  99,R,J,G
