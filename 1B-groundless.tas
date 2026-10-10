@@ -2,7 +2,7 @@ RecordCount: 673
 
 # FORSAKEN CITY B-SIDE 1GT
 # By RoundWindow4216
-# Originally routed by flamingreed and Cr33pyCat
+# Originally routed by floatingreed and Cr33pyCat
 
 console hard 1
    1
@@ -73,7 +73,7 @@ console hard 1
   31,G
   12,R,J,G
    1,L,K
-Repeat, 3
+Repeat,3
   12,L,J
   12,R,K
 EndRepeat
@@ -423,7 +423,7 @@ EndRepeat
   18,R,J,G
   17,L
    2,G
-Repeat, 12
+Repeat,12
    6,G
    1
 EndRepeat
@@ -490,18 +490,18 @@ EndRepeat
   59,R
    1,J
   19
-Repeat, 29
+Repeat,29
    1,G
    1
 EndRepeat
   12,D,G
   17,R,J
-Repeat, 31
+Repeat,31
    1,G
    1
 EndRepeat
    9,L
-Repeat, 15
+Repeat,15
    1,G
    1
 EndRepeat
@@ -511,14 +511,14 @@ EndRepeat
   15
    1,R,J
   38,R,K
-Repeat, 12
+Repeat,12
    1,G
    1
 EndRepeat
    1,J
   15
    1,L,G
-Repeat, 15
+Repeat,15
    1,G
    1
 EndRepeat
