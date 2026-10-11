@@ -1,11 +1,12 @@
-RecordCount: 3388
+RecordCount: 3522
 
 
 # By RoundWindow4216, Alexa, Cr33pyCat
 
-# console load 10 30767.3581197262 -7935.15670537949
+# console load 10 30540 -7957 420 8
 #    1
 # console p_twodashes
+# Invoke, Player.RefillDash
 # Play,Determination,36
 
 console load 10
@@ -1698,82 +1699,74 @@ EndRepeat
    4,R,J
   21,R
   19,L
-  24,L,D
-  29
-  12,R,D
-  14,R,Z
-  33,R,J
-  26,R,U,X
-   2
-  15,R,Z
-  24,D
-   9,R,J
-  27,R,D
-   1,L,D
-  32,D
-   6,L,D
-  19,L,Z
-  39,G
-  80,D
-   9,R,D
-  16,L,D
-  40,D
-   2,R,D
-   7,D
-   7,L,D
-  31,D
-  17,R,D
-  18,R,X
-  15,R,C
+  30,L,D
+  16,L,Z
+  15,L,V
+   9,L,D
+   1,G
+   2,L,J
+  10,L,D
+  36,D
+  80,R,D
+ 206,R
+  37,R,U,X
+  37,R,U,C
+  34,R,U,X
   27,R,U
- 152,F,63
- 100,F,15
-  30,F,35
-  49,F,0
-  25,F,320
-  39,F,0
-  38,F,35
-  37,F,86
+ 160,F,61
+  96,F,10
+  33,F,43
+  47,F,0
+  31,F,330
+  29,F,0
+  39,F,20
+  46,F,88.5
   23,R,Z
-  27,R,D
- 151,F,88
-   8,R,J
-  14,R
-   3,R,J,G
-  15,R
-   5,R,J
-  27,R,D
-  14,R,Z
-  10,R,J,G
-  19,R
-   9
-  13,R,Z
-   1,R,J
-   7,R
-  11,R,U,Z
-   9,R,J,G
-   3,R
+  27,R,U
+ 170,F,89
+  12,R,D
+   9,R,J
+   9,R
+   7,L,J
+  12,R,K
+   5,R
+   4,R,J
+  20,R
+  17,R,J
+  14,K
+   7,R,J
+  34,R
+  12,R,J
+  24,R
+   4,R,D
+  15,R,X
+   1,G
+   5,R,X
+   1,R,J,G
+   2,R,K,G
+  14,R,J,G
+  12,R,K,G
   40
 
+#Determination
 #lvl_h-00b
 #0gt
-  35,R,J
-  15,R,U,X
-#Determination
-  11,R,C
-  27,R,U
-  27,F,70
-  40,F,115
-  35,F,79
-  18,F,90
-  22,R,X
+   6,R,U,Z
+   1,L,J,G
+  36,R,J
+  24,R,U,X
+  69,F,83
+  36,F,115
+  32,F,75
+  31,F,90
+  18,R,X
+  21,R,C
+  24,R,X
+  21,R,C
+  26,R,X
   22,R,C
-  20,R,X
-  20,R,C
-  28,R,X
-  20,R,C
   15,R,U,X
-  45,R,D
+  43,R,D
   40
 
 #lvl_h-00
