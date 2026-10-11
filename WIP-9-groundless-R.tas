@@ -1,4 +1,4 @@
-RecordCount: 3522
+RecordCount: 3536
 
 
 # By RoundWindow4216, Alexa, Cr33pyCat
@@ -2055,24 +2055,20 @@ EndRepeat
    1,J,G
    3,R,J
    1,R,K,G
-#   34,R,J,G
-#   27,R,X
-#   34,R,C
-#   14,R,Z
-#   31,R,J
-#    3
-#   31,R,J
-#   30,R,X
-#   99,R,C
-   1,R,J,G
-  14,R
-  14,R,D,X
-  31,R,J
-  28,R,X
+
+  34,R,J,G
+  27,R,X
+  34,R,C
   14,R,Z
-  28,R,J
-  15,R,X
-  10,R,C
+  31,R,J
+   3
+   1,J
+   5,R
+  10,L
+  10,U,G
+  35,R,J
+  20,R,X
+  24,R,C
   15,R,X
   17,R,U,C
   13,L,J
