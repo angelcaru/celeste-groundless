@@ -1,6 +1,6 @@
-RecordCount: 2275
+RecordCount: 2431
 
-# CORE FULL CLEAR 10GT
+# CORE FULL CLEAR 9GT
 # By floatingreed, arti
 
 console load 9
@@ -653,7 +653,7 @@ EndRepeat
   40
 
 #lvl_c-02
-#1gt
+#0gt
   15,U,Z
    3,L
   39
@@ -675,30 +675,51 @@ EndRepeat
   65,R,J
   45
   20,L
-  52
-  39,R,U,X
-  20,L
-  45,R,J
-  20,R,U,J,X
-  25,R,U,J,C
-  14
-  10,L
-  35,R,J
-  25,R,U,J,Z
-   2,K
-  49,R,D
-  50,R
-  20,R,J
-   3,K,G
-   8,R,U,X
-  12,R,J,G
+  31
+   5,R
+  10
+  11,L
+  15,R,D,X
+  39,R
+  13,R
+  15,R,U,X
+  11,R
+  42,R,U,X
+  15,R,U,C
+   6,J,G
+  93,G
+  17
+   1,R
+   1,D
+   1,D
+   1,R,D
+   1
+   1,L
+  13,L,Z
+  46,R
+   1,G
+  11,J
+   1,L,J
+   4,K
+  23,R,D
+  13,R,D
+   1,D
+   1,R,D
+   1,D
+  20,R,X
+  15,R,Z
+   1,L
+   1,J,G
+   4
+   5,R
+   1,R,J,G
+  10,J
+   1,R,J
    2,J
   40
 
-
 #lvl_c-03 (0)
 #0gt
-
   19,R,X
   14,R,C
   20
@@ -1276,4 +1297,4 @@ EndRepeat
  434,R,D
  139,L,U,X
 
-ChapterTime: 6:53.219(24307)
+ChapterTime: 6:54.256(24368)
