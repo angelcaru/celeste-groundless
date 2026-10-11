@@ -1,7 +1,7 @@
-RecordCount: 3268
+RecordCount: 3387
 
 
-# By RoundWindow4216, Alexa
+# By RoundWindow4216, Alexa, Cr33pyCat
 
 # console load 10 30767.3581197262 -7935.15670537949
 #    1
@@ -475,34 +475,41 @@ EndRepeat
   40
 
 #lvl_c-02
-#1gt
-  43,R,J
-  34,R,K,G
-  28,R,U,X
-  11,J,G
-   1,L,J
-   1,R,K,G
-  11,R,J,G
-  19,R
-   5,R,J
-  18,R
-  27,R,X
-  14,R,C
-  13,R,G
-   1,R,J,G
-  97,R,G
-  63,R,U,G
+#0gt
+  15,R,D
+   5,D
+   9,R,J
+  29,R,D
+   7,R
+  39,R,J
+  14,R,U,Z
    1,L
+   1,J,G
+  12,R,J
+   2,R,K
    6,R
+   1,R,J
+  19,R
+  19,R,J,G
+   1,R,K,G
+ 270,R,U,J,G
+   1,L
+   2,R
   15,U,X
   18,R,J
-  17,U,X
+  11,K,G
+   1,L,K
+  14,R,J,G
+   7,L,K
   40
 
 #lvl_c-03
 #0gt
-   3
-  14,L,J
+  13,R,K
+   7,L,J
+   5,L
+   3,L,J
+   2,J
   18,L,K,G
   14,U,X
   45,U,G
@@ -1169,7 +1176,7 @@ EndRepeat
   13,R,X
   40
 
-#lvl_f-00
+#lvl_f-00 (0)
 #1gt
    2,R,X
 Repeat,2
@@ -1193,33 +1200,69 @@ EndRepeat
    3,J
   37,R,J
    8,R,Z
-   4,R,J,G
-  10,R
-  13,R,D,X
+   3,R,J,G
+   8,R
+   2
+  12,R,J,G
   40
 
 #lvl_f-01 (0)
 #0gt
-   2,R,D,X
-  17,R
-  14,R,Z
-  28,R,J
-  37,R,U,X
-  30,R,U,C
-   1,G
-   1,J
-   1,R,J
-   9,J
+   5,L,U,Z
+  40
+
+#lvl_f-00 (1)
+#0gt
+  40,D
+   5,L,D
+   8,L,J
+   5,L
    1,L,J
-  14,R,K,G
+  16,L
+  12,L,J
+  20,L
+   4,L,D
+   1,J
+   2,L,J
+   8
+   1,J
+   8
+  12,R,X
    1,R,J,G
-  11,R,K,G
-  19,R
-   1,L
+   1,R,K,G
+   1,R
+  13,R,C
+   3,R,J,G
+   1,J
+   5,R
+   3,R,J
+   9,R,K,G
+  40
+
+#lvl_f-01 (1)
+  37,R,K
+  26,R,X
+   3,R,J,G
+   1,J
+   3,R,J
+  16,R
+  34,R,K
+  34,R,U,X
+   2
+  11,J,G
+   1,L,J
+   1,K
+  15,L,K
+   1,R,K
    1,J,G
-   4
-   6,R
-  27,R,J,G
+  10,R,J
+   1,L,J
+  16,R,K,G
+  12,R,J,G
+  21,R
+   2,R,J
+   5,R
+  26,R,J,G
   40
 
 #lvl_f-02 (0)
@@ -1228,16 +1271,16 @@ EndRepeat
    2,L
   40
 
-#lvl_f-01 (1)
+#lvl_f-01 (2)
 #0gt
-   5,R,U,X
+   5,R,U,Z
   40
 
 #lvl_f-02 (1)
 #1gt
-  10,R,U,X
-  15,R,C
+  10,R,U,Z
   15,R,X
+  15,R,C
    1,S
    1,D,J
   34
