@@ -1,6 +1,6 @@
 RecordCount: 3354
 
-# FAREWELL + MOON BERRY 23GT
+# FAREWELL + MOON BERRY 22GT
 # By floatingreed
 
 console load 10
@@ -8,7 +8,7 @@ console load 10
 
 #Start
 Read,9-groundless-R,Start,lvl_j-16
-#19gt
+#18gt
 
 #lvl_j-16
 #1gt
