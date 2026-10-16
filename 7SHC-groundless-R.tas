@@ -1,14 +1,23 @@
-RecordCount: 5741
+RecordCount: 6139
 
 Set, Everest.ShowModOptionsInGame, false
 
-# By IAmCatman, RoundWindow4216
+# THE SUMMIT FULL CLEAR 47GT
+# By IAmCatman, RoundWindow4216, arti
 
 # console load 7 14640 -8400
 # Play,2000M,37
 
 # console load 7 25600 -13432
-# Play,3000M,37
+#    1
+# console summitgem 0
+# console summitgem 1
+# console summitgem 2
+# console summitgem 3
+# console summitgem 4
+# console summitgem 5
+# console summitgem 6
+# Play,3000M,36
 
 console load 7
    1
@@ -2560,20 +2569,33 @@ EndRepeat
   40
 
 #lvl_e-09 (1)
-#1gt
+#0gt
   10,L,D
   25,L
    1
   11,L,J,G
   24,L
-  33,L,J
-  15,U,X
-  16,R,J
-  15,R,X
+  39,L,J
+   2,J
+  10,K,G
+   1,R,K
+   1,J
+   1,K
+  10,R,K
+   2,J
+   1,K
+   5,R,K
+  15,R,D
+  19,R
+  14,R,X
+   6,R,J,G
+  11,R
+   8,R,J,G
+   7,R
+   5,R,K
   14,R,Z
-   4,R,J
-  25,R,D,X
-  24,R,C
+   7,R,J,G
+  13,R
   40
 
 #lvl_e-08 (2)
@@ -2716,15 +2738,27 @@ EndRepeat
   12,L,C
   45,R
   14,U,X
-  39
-  32,R,X
-  34,R,C
-  10,R,X
-  14,R,J
-   8,L,K
-  18,L
-  16,L,Z
-  18,L,U,X
+  54
+  21,R
+  13,R,U,Z
+   1,L
+   6,J,G
+   6,R,J
+  34,R,D
+  15,R
+   1,R,J,G
+  11,R,K,G
+   5,R
+   2,R,K
+   3,R
+   9,L,D
+   1,D
+   1,L,D
+   5,L,J
+   5,L
+  18,L,K
+  14,L,J
+  16,L,U,X
  198
    1,S
    1,D,J
@@ -3055,7 +3089,6 @@ EndRepeat
   15,R,X
   40
 
-# -11577
 #lvl_f-10b
 #0gt
   16,R,X
@@ -3198,6 +3231,11 @@ EndRepeat
 #lvl_g-00
 #1gt
   76
+Repeat, 100
+   1,D
+   1
+EndRepeat
+   1
 #3000M
   29,R,J
   12,R,K,G
@@ -3272,9 +3310,53 @@ EndRepeat
   40
 
 #lvl_g-00b
-#0gt
+#2gt
+  11,R
+  15,R,X
+  15,R,C
+  15,R,Z
+  10,R,X
+   1,R,J
+   6,L,K
+  10,R,J
+   5,R,Z
+  28,R,J,G
+  25,L,U,X
+Repeat, 200
+   1,G
+   1
+EndRepeat
+   2,G
+  18,R
+   2
+  20,J,G
+   8,R,J
+   1,J
+  40,L,D,X
+ 161,L,Z
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
+  15,R,X
    4,R
-  31,R,J
+   1,G
+   1,J
+   1,L,J
+   1,K
+   9,R,K
+   5,R
+   1,R,J
+   9,R
+   5,J,G
+  10,R,J,G
+   1,K
+  10,R,K
+   9,R
+   1,G
+   1
+   1,G
    5,K,G
    1,L,K
    1,J
@@ -3325,22 +3407,20 @@ EndRepeat
   12,L,K
   12,R,J
   12,L,K
-  11,R,J
-   6,R,Z
-   6,R,J,G
-   1
+  18,R,J
+  24,R,U,X
+  35,R,U,C
+  27,R,U,X
+  18,R,D,C
+  12,D
+  15,R,X
+   8,U,C
+  31,R,J
+  25,R,X
+  15,R,D,C
    6,R
-  12,R,J,G
-   5,R
-   5,R,J
-   1
-  11,R
-  24,R,J,G
-  13,R,U,X
-  27,R,J,G
-  52,R,U,X
-  32,R,U,C
-  15,D
+   4,R,D
+# 25764.9009206295 -15814.127352953
   33,R,J
   11,K,G
    1,L,K
@@ -3355,7 +3435,7 @@ EndRepeat
    1,L,J
    1,L,K
   12,L,J
-  11,K,G
+  10,K,G
    1,R,K
   12,R,J
    9,K,G
@@ -3398,7 +3478,40 @@ EndRepeat
    5,L,J
   19,L
   25,L,J
-   9,R,J
+   7,R,J
+
+  13,L,K
+  15,U,X
+   3,L,J
+   4,K,G
+   1,R,K
+  26,R,D
+   5,D
+  10,R,Z
+  20,R,J,G
+   4,J
+   4,R,K,G
+   5,R
+   7
+   7,R,J
+   5,R
+   1,R,J
+  11,R
+  33,R,K
+   1,J
+  23,R,J
+  30
+   8,L,D
+   1,R,D
+   2,D
+   1,G
+   6,J,G
+  17,L,J
+   5,L
+   5,L,J
+  19,L
+  25,L,J
+   7,R,J
    6,G
    6,U,G
   10,J,G
@@ -3407,7 +3520,7 @@ EndRepeat
   11,J,G
    1,L,J
   12,L,K
-   1,J,G
+   3,J,G
    2,R,J
   11,R,K
   12,L,J
@@ -3466,14 +3579,25 @@ EndRepeat
    8,R,J
    8,U,X
    5,R,J
+  23,R
+  15,U,X
+  28,R,J
+  10,L,K
+  23,L
+   5,L,J,G
+  21,L
+  14,L,D
+   2,D
+   8,L,X
   43,R
    8,R,Z
   12,R,J,G
    1
    4,R
-   1,R,J
+   0,R,J
    8,R
-  32,R,J,G
+  28,R,J,G
+   4,J
   16,R,K,G
   11,J,G
    1,L,J
@@ -3500,8 +3624,8 @@ EndRepeat
   20,L,J
   12,L,K,G
    5,L
-   1,L,J
-  10,L
+   4,L,J
+   8,L
   15,L,J
   15,U,X
   17,L,J
@@ -3561,7 +3685,7 @@ EndRepeat
   40
 
 #lvl_g-01
-#7gt
+#11gt
   13,R
    6,J,G
    1,L,J
@@ -3575,13 +3699,31 @@ EndRepeat
   11,J,G
    1,L,J
   14,R,K,G
-  40,L,J
-  11,U,X
-  27,R,J
-  11,K,G
-   1,L,K
-  26,R,J,G
-  47,R,U,X
+  74,L,J
+  13,L,U,X
+   1,J
+   8,R,J
+   8,L,K
+  21,L,J
+  62,L,U,X
+  14,L,Z
+  25,L,J
+  20,U,X
+  15,U,C
+  13,R
+  15,R,Z
+  36,R,D
+  16,L,D
+  15,D,X
+   1
+  14,R,C
+  54,R,J
+  36,R,U,X
+   9,R,C
+  10,R,J,G
+   5,R
+   1,R,J
+   9,R
   11,R,D,J
    1,J
   10,K,G
@@ -3594,7 +3736,7 @@ EndRepeat
   10,R,K
   15,U,X
    1,R
-   8
+   9
    5,J,G
   21,R,J
    5,R
@@ -3615,30 +3757,35 @@ EndRepeat
   12,D
    2,L,D
    2,D
-  40,R,J
-  33,R,U,X
-   2
-   9,J,G
-   7,R,J
+  58,R,J
+  30,R,U,Z
+   1,R,J
+  18,R
+  16,L,Z
+   3
+  16,R,J,G
    1,K,G
-   1,L,K
-   2,R,K
-  12,R,J,G
-   2,K,G
-   1,L,K
-   1,J
-   1,K
-  26,L,K
-   3,K
-  20,L,X
-   1,J
-  28,R,J
+   9,R
   15,U,X
-  10,R
-  20,U,X
-  10,R,J
-  47,R,D
-  14,R,Z
+  25,L,J
+  21,L,X
+  16,L,J
+  44,L,Z
+   8,R,J
+   5,R
+   1,R,J
+  12,R
+  35,R,Z
+  12,R,J
+  15,U,X
+   5,R
+  32,R,U,C
+  12,R,J,G
+   5,R
+   1,R,J
+  28,R
+  12,R,Z
+# 26126.6362979412 -19367.8749909401
   36,R,J
   15,R,X
   10,R,C
@@ -3920,15 +4067,33 @@ EndRepeat
   30,R
   15,U,X
    9,U,C
+  36,F,86
+  15,R,Z
+   4
+   3,J,G
+   1,L,J
+  18,L,K
+  12,L,J,G
+   5,L
+   4,L,J
+  11,L
+   1,J,G
+   6,L
+   4,R
+   4
+   8,R,J
+  28,R
+   6,L,D
+  15,L,Z
+   9,R
   27,R,D
-  31,F,160
-  34,F,100
-  54,F,60
-  46,R,U
-  26,R,U,X
-   9,R,Z
+  13,F,170
+  36,F,125
+ 106,F,61.62
+  15,R,X
+  10,R,Z
   10,R,J,G
-   5,R
+   5
    2,R,J
   21,R
   12,J,G
@@ -3941,8 +4106,9 @@ EndRepeat
   27,R,U
   55,F,70
   45,F,300
-  15,U,X
+  16,U,X
   12,L,J
+   1
   19,R,K
    9,J,G
    1,R,J
@@ -3961,8 +4127,8 @@ EndRepeat
   59,F,0
   54,F,307
    1,L,J,G
-   1,L,K,G
-   2,L
+   2,L,K,G
+   1,L
   20,L,J,G
   23,L,U,X
   21,L,U,C
@@ -4079,3 +4245,5 @@ EndRepeat
    1,U,J
    1,O
   31
+
+MidwayFileTime: 15:56.607(56271)
