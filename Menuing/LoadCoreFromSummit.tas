@@ -1,14 +1,13 @@
-Add 197
- 164
+# Different from maingame because we RTM at the end of summit
+
+Read,LoadAFromB,SkipExit,Epilogue
+
+   8
    1,J
-  32
+  43
+   1,J
+  46
 Add 1
-   2
-   1,S
-   1,D,J
-  18
-Add 1
-   1
 
 #Epilogue
 Read,../0-epiloguefast-groundless,Start
